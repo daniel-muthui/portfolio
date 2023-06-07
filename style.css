@@ -844,11 +844,13 @@ a:focus {
     background-size: contain;
 }
 
-.contact .contact-form {
+.contact .contact-form, h1 {
     position: relative;
     padding: 90px 0 90px 45px;
     background: #0d3167;
+    color: #f8f9fa;
 }
+
 
 .contact .contact-form input {
     color: #ffffff;
